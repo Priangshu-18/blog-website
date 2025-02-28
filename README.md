@@ -13,7 +13,7 @@ Deployed for easy access and seamless content sharing.
 ![Screenshot (218)](https://github.com/user-attachments/assets/1840587c-613c-40db-871b-2bc5c1235316)
 
 # Add Post Page
-![Screenshot (218)](https://github.com/user-attachments/assets/59f48465-31be-4801-a539-51f676b392a7)
+![Screenshot (219)](https://github.com/user-attachments/assets/80ec0c08-1012-474d-8783-1d009133cfa4)
 
 # Home Page
 ![Screenshot (223)](https://github.com/user-attachments/assets/7eb358f2-2ce1-4950-9947-7560b5a55756)
