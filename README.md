@@ -7,12 +7,15 @@ Add Post: Create new blog posts with ease.
 Homepage: Displays all blog posts in a clean, responsive layout. 
 Deployed for easy access and seamless content sharing.  
 ## Preview 
-# Sign-up Page 
-![Screenshot (218)](https://github.com/user-attachments/assets/1840587c-613c-40db-871b-2bc5c1235316)  
+# Sign-up Page   
+![417982071-1840587c-613c-40db-871b-2bc5c1235316](https://github.com/user-attachments/assets/0698fbd9-093c-4fc0-9bd0-aad3bfe5ee68)
+
 # Add Post Page 
-![Screenshot (219)](https://github.com/user-attachments/assets/80ec0c08-1012-474d-8783-1d009133cfa4)  
+![417982745-80ec0c08-1012-474d-8783-1d009133cfa4](https://github.com/user-attachments/assets/e486fc9a-e6cb-4e24-8c4d-ed6805655bb9)
+
 # Home Page 
-![Screenshot (223)](https://github.com/user-attachments/assets/7eb358f2-2ce1-4950-9947-7560b5a55756)   
+![417982387-7eb358f2-2ce1-4950-9947-7560b5a55756](https://github.com/user-attachments/assets/7aecd7ae-8668-426d-8709-7433085e78ca)
+
 ## How to set-up in vs code 
 1) Download the zip file and open the file in the visual code or any other preferred editor.
 2) Keep in mind that you must have the nodejs downloaded and set-up.
@@ -26,4 +29,5 @@ If you have any queries setting up the folder or not running then feel free to c
 - LinkedIn: https://www.linkedin.com/in/priangshu-mukherjee-609142239/
 - Facebook: https://www.facebook.com/profile.php?id=61556779768488&mibextid=ZbWKwL
 - Email: priangshu18@gmail.com
+
 Feel free to explore, edit, and contribute! Together, let's make this blog website more responsive! 🌐💻🍞
